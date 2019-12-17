@@ -1,0 +1,38 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "RESTful API design is a very important case in the software development world.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramanindia/nodejs-mongodb-restify-http-api-with-mvc-structure.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restify",
+    "technology"
+  ],
+  "author": "Rajasthan Patrika Pvt Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanindia/nodejs-mongodb-restify-http-api-with-mvc-structure/issues"
+  },
+  "homepage": "https://github.com/ramanindia/nodejs-mongodb-restify-http-api-with-mvc-structure#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "async": "^2.6.2",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "oracledb": "^3.1.2",
+    "restify": "^6.3.2",
+    "restify-plugins": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
