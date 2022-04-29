@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ramanindia/nodejs-mongodb-restify-http-api-with-mvc-structure#readme",
   "dependencies": {
     "assert": "^1.4.1",
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "dotenv": "^7.0.0",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
